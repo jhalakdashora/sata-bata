@@ -1,0 +1,6 @@
+{
+  "SUPABASE_URL": "https://xxxx.supabase.co",
+  "SUPABASE_ANON_KEY": "sb_publishable_xxxx",
+  "GOOGLE_WEB_CLIENT_ID": "xxxx.apps.googleusercontent.com",
+  "GOOGLE_IOS_CLIENT_ID": "yyyy.apps.googleusercontent.com"
+}
